@@ -1,0 +1,23 @@
+{
+  "name": "ym-bridge-shandianyun",
+  "version": "1.0.0",
+  "description": "闪电云前端公用跨域调用包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yimu0001/ym-bridge-shandianyun.git"
+  },
+  "author": "易木",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yimu0001/ym-bridge-shandianyun/issues"
+  },
+  "homepage": "https://github.com/yimu0001/ym-bridge-shandianyun#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "js-cookie": "^2.2.1"
+  }
+}
